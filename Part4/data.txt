@@ -1,0 +1,4 @@
+//Note: This txt file is used for the exercise "PrintingaFile".
+8d58
+b4e1
+d6d9
