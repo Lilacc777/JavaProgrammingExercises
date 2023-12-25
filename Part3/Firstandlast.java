@@ -18,5 +18,6 @@ public class Firstandlast {
         }
         System.out.println(names.get(0));
         System.out.println(names.get(names.size()-1));
+        scanner.close();
     }
 }

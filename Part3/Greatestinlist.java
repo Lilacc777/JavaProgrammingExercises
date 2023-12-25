@@ -25,5 +25,6 @@ public class Greatestinlist {
             }
         }
         System.out.println("The greatest number: " + greatest);
+        scanner.close();
     }
 }

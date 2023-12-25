@@ -20,5 +20,6 @@ public class NumberofNumbers {
         }
 
         System.out.println("Number of numbers: " + values);
+        scanner.close();
     }
 }

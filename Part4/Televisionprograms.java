@@ -29,6 +29,7 @@ public class Televisionprograms {
                 System.out.println(Program.toString());
             }
         }
+        scanner.close();
     }
 
 static class TelevisionProgram{

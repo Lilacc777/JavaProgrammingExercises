@@ -1,7 +1,5 @@
 package Part3;
 
-import java.util.ArrayList;
-
 public class Sumofarray {
     public static void main(String args[]){
         int[] numbers = {5, 1, 3, 4, 2};

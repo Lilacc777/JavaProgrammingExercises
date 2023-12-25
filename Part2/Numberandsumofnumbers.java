@@ -28,5 +28,6 @@ public class Numberandsumofnumbers {
 
         System.out.println("Number of numbers: " + numberOfNumbers);
         System.out.println("Sum of the numbers: " + sum);
+        scanner.close();
     }
 }

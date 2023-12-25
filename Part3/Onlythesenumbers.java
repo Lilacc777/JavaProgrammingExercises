@@ -21,5 +21,6 @@ public class Onlythesenumbers {
         for(var i = 1; i < numbers.size() - 1; i++){
             System.out.println(numbers.get(i));
         }
+        scanner.close();
     }
 }

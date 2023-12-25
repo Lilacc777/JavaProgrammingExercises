@@ -21,6 +21,7 @@ public class Items {
         for(Item item: items){
             System.out.println(item.toString());
         }
+        scanner.close();
     }
     
 static class Item {

@@ -23,5 +23,6 @@ public class Indexof {
                 System.out.println(search + " is at index " + i);
             }
         }
+        scanner.close();
     }
 }

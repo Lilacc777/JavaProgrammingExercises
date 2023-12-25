@@ -19,5 +19,6 @@ public class Nameoftheoldest {
             }
         }
         System.out.println("Name of the oldest: " + oldestName);
+        scanner.close();
     }
 }

@@ -10,6 +10,7 @@ public class Counting {
 
         for (int i = start; i < number + 1; i++) {
             System.out.println(i);
-        }  
+        }
+        scanner.close();
     }
 }

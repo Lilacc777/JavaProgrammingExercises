@@ -17,5 +17,6 @@ public class Ageoftheoldest {
             }
         }
         System.out.println("Age of the oldest: " + oldest);
+        scanner.close();
     }
 }

@@ -28,5 +28,6 @@ public class Indexwasnotfound {
                 continue;
             }
         }
+        scanner.close();
     }
 }

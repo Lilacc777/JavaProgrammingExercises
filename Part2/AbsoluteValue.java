@@ -14,5 +14,6 @@ public class AbsoluteValue {
         } else {
             System.out.println(integer);
         }
+        scanner.close();
    } 
 }

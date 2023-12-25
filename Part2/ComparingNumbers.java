@@ -16,5 +16,6 @@ public class ComparingNumbers {
         } else {
             System.out.println(integer1 + " is equal to " + integer2 + ".");
         }
+        scanner.close();
    } 
 }

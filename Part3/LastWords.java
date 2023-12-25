@@ -14,5 +14,6 @@ public class LastWords {
                 System.out.println(pieces[pieces.length-1]);
             }
         }
+        scanner.close();
     }
 }

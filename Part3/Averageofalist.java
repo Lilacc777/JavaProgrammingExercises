@@ -23,5 +23,6 @@ public class Averageofalist {
             numOfNums++;
         }
         System.out.println("Average: " + sum / numOfNums);
+        scanner.close();
     }
 }

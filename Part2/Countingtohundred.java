@@ -9,6 +9,7 @@ public class Countingtohundred {
 
         for (int i = number; i < 101; i++) {
             System.out.println(i);
-        }  
+        }
+        scanner.close();
     }
 }

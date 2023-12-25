@@ -13,5 +13,6 @@ public class Carryon {
                 break;
             }
         }
+        scanner.close();
     }
 }

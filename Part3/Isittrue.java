@@ -12,5 +12,6 @@ public class Isittrue {
         } else {
             System.out.println("Try again!");
         }
+        scanner.close();
     }
 }

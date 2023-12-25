@@ -26,7 +26,7 @@ public class PersonalInformationCollection {
         for(PersonalInformation info: information){
             System.out.println(info.getFirstName() + " " + info.getLastName());
         }
-
+        scanner.close();
     }
 
 static class PersonalInformation {

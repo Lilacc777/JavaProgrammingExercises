@@ -17,5 +17,6 @@ public class Lastinlist {
             }
         }
         System.out.println(names.get(names.size()-1));
+        scanner.close();
     }
 }

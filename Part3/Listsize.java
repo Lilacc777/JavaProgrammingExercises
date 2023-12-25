@@ -17,5 +17,6 @@ public class Listsize {
             }
         }
         System.out.println("In total: " + names.size());
+        scanner.close();
     }
 }

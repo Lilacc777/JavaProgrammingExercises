@@ -12,6 +12,7 @@ public class Fromwheretowhere {
 
         for (int i = from; i < to + 1; i++) {
             System.out.println(i);
-        }  
+        }
+        scanner.close();
     }
 }

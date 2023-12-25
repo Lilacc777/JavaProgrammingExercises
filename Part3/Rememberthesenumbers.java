@@ -3,8 +3,6 @@ package Part3;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import javax.print.attribute.IntegerSyntax;
-
 public class Rememberthesenumbers {
     public static void main(String args[]){
         ArrayList<Integer> numbers = new ArrayList<>();
@@ -21,5 +19,6 @@ public class Rememberthesenumbers {
         for(var i = 0; i < numbers.size(); i++){
             System.out.println(numbers.get(i));
         }
+        scanner.close();
     }
 }

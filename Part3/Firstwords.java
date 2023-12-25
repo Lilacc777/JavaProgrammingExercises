@@ -14,5 +14,6 @@ public class Firstwords {
                 System.out.println(pieces[0]);
             }
         }
+        scanner.close();
     }
 }

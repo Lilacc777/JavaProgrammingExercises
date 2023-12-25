@@ -10,5 +10,6 @@ public class Printthrice {
         System.out.print(string);
         System.out.print(string);
         System.out.println(string);
+        scanner.close();
     }
 }

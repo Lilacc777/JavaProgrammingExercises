@@ -13,5 +13,6 @@ public class Arewethereyet {
                 break;
             }
         }
+        scanner.close();
     }
 }

@@ -32,6 +32,7 @@ public class Books {
                 System.out.println(Book.getTitle());
             }
         }
+        scanner.close();
     }
 
 static class Book {

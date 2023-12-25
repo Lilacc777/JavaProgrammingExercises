@@ -23,5 +23,6 @@ public class Numberofnegativenumbers {
         }
 
         System.out.println("Number of negative numbers: " + negatives);
+        scanner.close();
     }
 }

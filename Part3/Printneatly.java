@@ -1,8 +1,6 @@
 //Note: I don't have access to the original template for this exercise so I attempted to recreate something similar.
 package Part3;
 
-import java.util.ArrayList;
-
 public class Printneatly {
     public static void main(String args[]){
         int[] array = {5, 1, 3, 4, 2};

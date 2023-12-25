@@ -17,5 +17,6 @@ public class Secondplusthird {
             }
         }
         System.out.println(integers.get(1) + integers.get(2));
+        scanner.close();
     }
 }

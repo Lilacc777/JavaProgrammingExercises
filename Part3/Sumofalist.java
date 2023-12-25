@@ -21,5 +21,6 @@ public class Sumofalist {
             sum = sum + num;
         }
         System.out.println(sum);
+        scanner.close();
     }
 }

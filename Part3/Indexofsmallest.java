@@ -28,5 +28,6 @@ public class Indexofsmallest {
                 System.out.println("Found at index: " + i);
             }
         }
+        scanner.close();
    }
 }
