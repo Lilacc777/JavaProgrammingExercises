@@ -1,0 +1,5 @@
+ada
+arto
+leena
+test
+//Note: This txt file is used for the exercise "Isitinthefile".
