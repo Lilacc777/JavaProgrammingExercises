@@ -10,5 +10,6 @@ public class Squared {
         int squared = integer * integer;
 
         System.out.println(squared);
+        scanner.close();
    } 
 }

@@ -25,5 +25,6 @@ public class GradesandPoints {
         } else if (points > 100) {
             System.out.println("incredible!");
         }
+        scanner.close();
     }
 }

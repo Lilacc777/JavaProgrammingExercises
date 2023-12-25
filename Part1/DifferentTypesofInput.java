@@ -19,5 +19,6 @@ public class DifferentTypesofInput {
         System.out.println("You gave the integer " + value);
         System.out.println("You gave the double " + decimal);
         System.out.println("You gave the boolean " + trueOrFalse);
+        scanner.close();
     }
 }

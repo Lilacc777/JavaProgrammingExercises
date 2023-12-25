@@ -9,5 +9,6 @@ public class IntegerInput {
         System.out.println("Give a number:");
         int value = Integer.valueOf(scanner.nextLine());
         System.out.println("You gave the number " + value);
+        scanner.close();
     }
 }

@@ -11,5 +11,6 @@ public class Ancient {
         if (year < 2015) {
             System.out.println("Ancient history!");
         }
+        scanner.close();
     }
 }

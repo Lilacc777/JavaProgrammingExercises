@@ -14,5 +14,6 @@ public class Oddoreven {
         } else {
             System.out.println("Number " + number + " is odd.");
         }
+        scanner.close();
     }
 }

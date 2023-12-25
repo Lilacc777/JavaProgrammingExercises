@@ -10,5 +10,6 @@ public class Secondsinaday {
         int days = Integer.valueOf(scanner.nextLine());
         int seconds = days * 86400;
         System.out.println(seconds);
+        scanner.close();
     }
 }

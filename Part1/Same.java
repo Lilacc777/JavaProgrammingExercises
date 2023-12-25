@@ -16,5 +16,6 @@ public class Same {
         } else {
             System.out.println("Different");
         }
+        scanner.close();
     }
 }

@@ -16,5 +16,6 @@ public class Sumofasequencethesequel {
         }
 
         System.out.println("The sum is " + sum);
+        scanner.close();
     }
 }

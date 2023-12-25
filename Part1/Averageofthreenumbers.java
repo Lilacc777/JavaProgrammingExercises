@@ -15,5 +15,6 @@ public class Averageofthreenumbers {
 
         double result = (first + second + third) / 3.0;
         System.out.println("The average is " + result);
+        scanner.close();
     }
 }

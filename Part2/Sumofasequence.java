@@ -14,5 +14,6 @@ public class Sumofasequence {
         }
 
         System.out.println("The sum is " + sum);
+        scanner.close();
     }
 }

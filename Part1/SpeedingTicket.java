@@ -11,5 +11,6 @@ public class SpeedingTicket {
         if (speed > 120) {
             System.out.println("Speeding ticket!");
         }
+        scanner.close();
     }
 }

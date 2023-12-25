@@ -13,5 +13,6 @@ public class Checkingtheage {
         } else {
             System.out.println("Impossible!");
         }
+        scanner.close();
     }
 }

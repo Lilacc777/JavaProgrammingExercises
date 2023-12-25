@@ -13,5 +13,6 @@ public class Sumofthreenumbers {
         System.out.println("Give the third number:");
         int third = Integer.valueOf(scanner.nextLine());
         System.out.println("The sum of the numbers is " + (first + second + third));
+        scanner.close();
     }
 }

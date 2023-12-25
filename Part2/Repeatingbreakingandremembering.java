@@ -38,5 +38,6 @@ public class Repeatingbreakingandremembering {
         System.out.println("Average: " + average);
         System.out.println("Even: " + even);
         System.out.println("Odd: " + odd);
+        scanner.close();
     }
 }

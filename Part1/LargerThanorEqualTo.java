@@ -18,5 +18,6 @@ public class LargerThanorEqualTo {
         } else if (first == second) {
             System.out.println("The numbers are equal!");
         }
+        scanner.close();
     }
 }

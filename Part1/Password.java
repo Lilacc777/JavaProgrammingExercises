@@ -13,5 +13,6 @@ public class Password {
         } else {
             System.out.println("Off with you!");
         }
+        scanner.close();
     }
 }

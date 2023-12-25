@@ -20,5 +20,6 @@ public class Simplecalculator {
         System.out.println(first + " - " + second + " = " + result2);
         System.out.println(first + " * " + second + " = " + result3);
         System.out.println(first + " / " + second + " = " + result4);
+        scanner.close();
     }
 }

@@ -13,5 +13,6 @@ public class Averageoftwonumbers {
         
         double result = (first + second) / 2.0;
         System.out.println("The average is " + result);
+        scanner.close();
     }
 }

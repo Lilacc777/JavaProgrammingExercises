@@ -21,5 +21,6 @@ public class Gifttax {
         } else if (value >= 1000000) {
             System.out.println("Tax: " + (142100 + (value - 1000000) * 0.17));
         }
+        scanner.close();
     }
 }

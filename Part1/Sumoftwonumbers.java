@@ -11,5 +11,6 @@ public class Sumoftwonumbers {
         System.out.println("Give the second number:");
         int second = Integer.valueOf(scanner.nextLine());
         System.out.println("The sum of the numbers is " + (first + second));
+        scanner.close();
     }
 }

@@ -13,5 +13,6 @@ public class Positivity {
         } else {
             System.out.println("The number is not positive.");
         }
+        scanner.close();
     }
 }

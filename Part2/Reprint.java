@@ -11,6 +11,7 @@ public class Reprint {
         for (int i = 0; i < number; i++) {
             printText();
         }
+        scanner.close();
     }
     public static void printText() {
         System.out.println("In a hole in the ground there lived a method");

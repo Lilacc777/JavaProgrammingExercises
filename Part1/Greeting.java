@@ -12,5 +12,6 @@ public class Greeting {
         String message = scanner.nextLine();
 
         System.out.println("Hi " + message);
+        scanner.close();
     }
 }
