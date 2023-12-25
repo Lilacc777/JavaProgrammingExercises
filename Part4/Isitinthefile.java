@@ -1,3 +1,4 @@
+//Note: The TXT files "names.txt" and "other-names.txt" are used in this file.
 package Part4;
 
 import java.util.Scanner;

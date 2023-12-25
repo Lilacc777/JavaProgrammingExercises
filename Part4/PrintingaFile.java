@@ -1,3 +1,4 @@
+//Note: The TXT file "data.txt" is used in this file.
 package Part4;
 
 import java.util.Scanner;

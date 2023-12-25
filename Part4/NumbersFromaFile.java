@@ -1,4 +1,4 @@
-//Note: The txt files "numbers-1.txt" and "numbers-2.txt" are used in this file.
+//Note: The TXT files "numbers-1.txt" and "numbers-2.txt" are used in this file.
 package Part4;
 
 import java.util.Scanner;
