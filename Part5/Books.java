@@ -28,6 +28,7 @@ public class Books {
         }
 
         System.out.println("Thank you! Books added: " + books.size());
+        scanner.close();
     }
 
     static class Book {
